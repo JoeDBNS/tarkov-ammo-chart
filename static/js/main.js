@@ -1,3 +1,7 @@
+// References:
+// - https://kokarn.github.io/tarkov-tools/
+// - https://docs.google.com/spreadsheets/d/1VuxGkweKB118mF1kcBmVPe-Bj_gSKGOCWyoytM4miDU/htmlview?pru=AAABcqZtUvI*1Y3DUwDoIwg_fvDEoPHC3A#gid=64053005
+
 
 
 // OnLoad Run
