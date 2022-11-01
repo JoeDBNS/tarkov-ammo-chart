@@ -4,7 +4,7 @@
   "description": "[joedbns.github.io/tarkov-ammo-chart](https://joedbns.github.io/tarkov-ammo-chart)",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^4.0.2"
   },
   "devDependencies": {
     "gulp-autoprefixer": "^7.0.1",
